@@ -17,15 +17,15 @@ const slides = [
     alt: 'Church congregation during worship service',
   },
   {
-    image: 'https://images.unsplash.com/photo-1507692049790-de58290a4334?w=1920&h=900&fit=crop',
+    image: '/pastor-slide1.jpeg',
     alt: 'Bible study group discussion',
   },
   {
-    image: 'https://images.unsplash.com/photo-1519491050282-cf00c82424ef?w=1920&h=900&fit=crop',
+    image: '/pastor-slide2.jpeg',
     alt: 'Church community gathering',
   },
   {
-    image: 'https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=1920&h=900&fit=crop',
+    image: '/pastor-slide3.jpeg',
     alt: 'Open Bible with candlelight',
   },
   {
