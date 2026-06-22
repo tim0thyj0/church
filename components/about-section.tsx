@@ -18,14 +18,14 @@ export function AboutSection() {
             </div>
 
             <p className="text-lg text-muted-foreground leading-relaxed">
-              At Christ Fellowship, we are a community firmly rooted in the belief of the Father, 
-              Son, and the Holy Spirit. Our mission is to create a welcoming space where individuals 
+              At Christ Fellowship, we are a community firmly rooted in the belief of the Father,
+              Son, and the Holy Spirit. Our mission is to create a welcoming space where individuals
               and families can grow in their faith journey together.
             </p>
 
             <p className="text-lg text-muted-foreground leading-relaxed">
-              We are dedicated to studying and preaching the Bible, believing it to be the inspired 
-              Word of God and the ultimate guide for our lives. Through worship, fellowship, and 
+              We are dedicated to studying and preaching the Bible, believing it to be the inspired
+              Word of God and the ultimate guide for our lives. Through worship, fellowship, and
               service, we strive to reflect the love of Christ in everything we do.
             </p>
 
@@ -59,7 +59,7 @@ export function AboutSection() {
             <Card className="overflow-hidden border-0 shadow-lg bg-card">
               <div className="relative h-80 w-full bg-secondary">
                 <img
-                  src="https://ucbb3b61af3b50c41360557de7dd.dl.dropboxusercontent.com/cd/0/inline/DA6v620YBziXIqOp-Rxdfa2ESllQeWrVCOqxJ6xcTpbhnFOhmKVPEDavuK_sFvwi_QRUjoA3Nb_S1YlhplobD9Qaad1sVmhOjmAFZEvL3P6TA409Yzz_TtNL0yBLH1xQuyU/file#"
+                  src="/pastor2.jpg"
                   alt="Pastor John Matthews"
                   className="h-full w-full object-cover"
                   crossOrigin="anonymous"
@@ -73,8 +73,8 @@ export function AboutSection() {
                   Pastor Immanuel
                 </h3>
                 <p className="mt-4 text-muted-foreground leading-relaxed">
-                  With over 20 years of ministry experience, Pastor Immanuel leads our congregation 
-                  with wisdom, compassion, and a deep love for Scripture. His teaching style makes 
+                  With over 20 years of ministry experience, Pastor Immanuel leads our congregation
+                  with wisdom, compassion, and a deep love for Scripture. His teaching style makes
                   the Bible accessible and applicable to everyday life.
                 </p>
                 <div className="mt-6 pt-6 border-t border-border">
