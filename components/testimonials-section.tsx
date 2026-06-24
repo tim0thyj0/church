@@ -5,13 +5,13 @@ import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar'
 const testimonials = [
   {
     name: 'Kalpana',
-    role: 'Member since 2018',
+    role: 'Member since 2010',
     image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&h=150&fit=crop&crop=face',
     quote: 'Christ Fellowship has been a true blessing in my life. The warmth and genuine care of this community helped me through some of my darkest moments. I found not just a church, but a family.',
   },
   {
     name: 'Timothy J',
-    role: 'Member since 2020',
+    role: 'Member since 2025',
     image: 'https://www.dropbox.com/scl/fi/tx50rw00333bjj31l9dfq/piklc.jpg?rlkey=a3i193nj6ri2m5tsa90lb80d5&st=o3wqwl47&raw=1',
     quote: 'The Bible studies here transformed my understanding of Scripture. Pastor John has a gift for making complex passages come alive. My faith has grown deeper than I ever thought possible.',
   },
@@ -19,7 +19,7 @@ const testimonials = [
     name: 'Kavitha',
     role: 'Member since 2019',
     image: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&h=150&fit=crop&crop=face',
-    quote: 'Joining Christ Fellowship was the best decision for our family. The youth programs have helped our children develop a strong foundation in faith, and we&apos;ve made lifelong friends here.',
+    quote: 'Joining Christ Fellowship was the best decision. The youth programs have helped me develop a strong foundation in faith, and we have made lifelong friends here.',
   },
 ]
 
